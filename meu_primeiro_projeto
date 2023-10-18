@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu primeiro site</title>
+</head>
+    <body>
+         <h1>Matérias estudadas até agora</h1>
+         <hr>
+         <h2 id="inicio">índice</h2>
+        
+            <ul>
+                <li><a href="#html">Html</a></li>
+                <li><a href="#css">Css</a></li>
+                <li><a href="#dados">Banco de dados</a></li>
+                <li><a href="#fdi">Fundamentos da informatica</a></li>
+                <li><a href="#ldp">Logica de programação</a></li>
+            </ul>
+
+            <h2 id="html">HTML</h2>
+                <small><a href="#inicio">(voltar)</a></small>
+                    <p>
+                        A Linguagem de Marcação de Hipertexto (HTML) é uma linguagem de computador que compõe a maior parte das páginas da internet e dos aplicativos online. Um hipertexto é um texto usado para fazer referência a outros textos, enquanto uma linguagem de marcação é composta por uma série de marcações que dizem para os servidores da web qual é o estilo e a estrutura de um documento.
+                        <br>
+                        O HTML não é considerado uma linguagem de programação, já que ele não pode criar funcionalidades dinâmicas. Ao invés disso, com o HTML, os usuários podem criar e estruturar seções, parágrafos e links usando elementos, tags e atributos.</p>
+            <h2 id="css">CSS</h2> 
+                 <small><a href="#inicio">(voltar)</a></small>
+                    <p> CSS é chamado de linguagem Cascading Style Sheet e é usado para estilizar elementos escritos em    uma linguagem de marcação como HTML. O CSS separa o conteúdo da representação visual do site. Pense  na decoração da sua página. Utilizando o CSS é possível alterar a cor do texto e do fundo, fonte e espaçamento entre parágrafos. Também pode criar tabelas, usar variações de layouts, ajustar imagens para suas respectivas telas e assim por diante.
+                        <br>
+                        <br>
+                        CSS foi desenvolvido pelo W3C (World Wide Web Consortium) em 1996, por uma razão bem simples. O HTML não foi projetado para ter tags que ajudariam a formatar a página. Você deveria apenas escrever a marcação para o site.
+                        <br>
+                        <br>
+                        Tags como font foram introduzidas na versão 3.2 do HTML e causaram muitos problemas para os desenvolvedores. Como os sites tinham diferentes fontes, cores e estilos, era um processo longo, doloroso e caro para reescrever o código. Assim, o CSS foi criado pelo W3C para resolver este problema.
+                        <br>
+                        <br>
+                        A relação entre HTML e CSS é bem forte. Como o HTML é uma linguagem de marcação (o alicerce de um site) e o CSS é focado no estilo (toda a estética de um site), eles andam juntos.
+                        <br>
+                        <br>
+                        CSS não é tecnicamente uma necessidade, mas provavelmente você não gostaria de olhar para um site que usa apenas HTML, pois isso pareceria completamente abandonado.</h2>
+                        <h2 id="dados">BANCO DE DADOS</h2> 
+                        <small><a href="#inicio">(voltar)</a></small>  
+                    <p>O banco de dados agrupa dados sobre um mesmo assunto, armazenando assim diversos dados como documentos, endereços, serviços, clientes, entre outros. Desta forma, um banco de dados serve para que estes dados sejam armazenados e consumidos posteriormente.
+                        <br>
+                        <br>
+                        Como dito anteriormente, para seu gerenciamento, utilizamos os SGBDs, são eles os softwares responsáveis por armazenar, listar, pesquisar, remover e qualquer outra manipulação feita em um banco de dados.
+                        <br>
+                        <br>
+                        Existem dois tipos de SGBDs: Os relacionais e os não relacionais (NoSQL).
+                        <br>
+                        <br>
+                        Relacionais - Os SGBDS relacionais modelam os dados no formato de tabelas, que podem se relacionar entre si. Cada tabela pode possuir diversos atributos, com diversos tipos de dados.
+                        <br>
+                        Não-relacionais (NoSQL) - NoSQL (Not Only SQL) é o termo utilizado para banco de dados não relacionais de alto desempenho, onde geralmente não é utilizado o SQL como linguagem de consulta. Estes bancos utilizam diversos modelos de dados incluindo documentos, gráficos, chave-valor e colunares. São amplamente reconhecidos pela facilidade em seu desenvolvimento, desempenho escalável, alta disponibilidade e resiliência.
+                        <br>
+                        <br>
+                        Aqui em nosso blog já possuímos um artigo sobre SQL vs NoSQL, onde você poderá ver maiores diferenças entre esses tipos de SGBDs.
+                        <br>
+                        <br>
+                        Vantagens
+                        Investir em um banco de dados traz diversos benefícios para qualquer empresa, sendo assim, diversas são as vantagens em sua utilização, dentre elas podemos citar:
+                        <br>
+                        <br>
+                        Armazenagem de dados;
+                        <br>
+                        <br>
+                        Comunicação entre diversas áreas dentro de uma empresa;
+                        Disponibilizar os dados armazenados de maneira organizada;
+                        Garantir a integridade dos dados armazenados;
+                        Atestar a segurança dos dados armazenados;
+                        Assegurar a confiabilidade dos dados armazenados, entre outras.</p>
+            <h2 id="fdi">FUNDAMENTOS DA INFORMATICA</h2>
+                <small><a href="#inicio">(voltar)</a></small>
+                    <p>A informática básica ensina os conceitos fundamentais dos computadores, que facilitam a vida e a organização do trabalho. Seu entendimento é um pré-requisito comum para muitas vagas de emprego. Ter conhecimentos básicos de informática significa saber:
+                        <br>
+                        <br>
+                        usar um computador;
+                        acessar a internet;
+                        usar navegadores e motores de busca;
+                        criar e salvar arquivos;
+                        organizar pastas;
+                        criar planilhas e gráficos básicos;
+                        conectar dispositivos em cabo USB;
+                        ter noções sobre o sistema operacional do computador.
+                        Os conceitos básicos mais importantes
+                        Compreender a diferença entre os conceitos de software e hardware é fundamental. O termo hardware se refere a todos os itens físicos de um dispositivo, ou seja, tudo aquilo que pode ser tocado.
+                        <br>
+                        <br>
+                        Teclado, mouse, monitor, placa de vídeo, memória e placa-mãe e as demais peças que compõem um computador, tablet ou smartphone são hardware.
+                        <br>
+                        <br>
+                        Já o software diz respeito a aspectos que não são físicos, como o sistema operacional e os programas instalados na máquina.
+                        <br>
+                        <br>
+                        Outros conceitos de informática básica são:
+                        <br>
+                        <br>
+                        Sistema operacional: é o software mais importante, que faz o computador funcionar e permite que outros programas sejam instalados e rodem. Dentre os mais famosos para PC estão Windows, macOS e Linux. Já Android e iOS são os mais usados em smartphones;
+                        <br>
+                        <br>
+                        CPU: sigla em inglês que significa Unidade Central de Processamento. É um dos componentes mais importantes da máquina, sendo a responsável por processar os dados e transformá-los em informação;
+                        <br>
+                        <br>
+                        Disco rígido (HD): local onde são armazenados todos os dados do computador, como arquivos, programas, fotos, etc.;
+                        <br>
+                        <br>
+                        Dispositivo de armazenamento de dados portáteis: aparelhos externos usado para armazenar arquivos de diferentes formatos fora do computador. Também permitem transferi-los para outros dispositivos. Entre eles, estão o pendrive e o HD externo;
+                        <br>
+                        <br>
+                        Memória RAM: armazena informações que serão utilizadas pela CPU de forma temporária. Sua função é tornar processos mais velozes, ao guardar dados que foram usados recentemente e poderão ser necessários em breve;
+                        <br>
+                        <br>
+                        Monitor: é a tela do computador;
+                        <br>
+                        <br>
+                        Navegador: programa usado para acessar sites e navegar na internet. Chrome, Firefox, Safari e Opera estão entre os mais usados;
+                        <br>
+                        <br>
+                        Nuvem: se refere a programas e serviços que funcionam baseados na internet. Ou seja, que não ocupam espaço em seu dispositivo, mas, sim, em servidores online. Dentre os serviços na nuvem mais populares estão os de armazenamento de fotos e outros arquivos, editores de texto, planilhas, apresentações, etc.;
+                        <br>
+                        <br>
+                        Periféricos: são dispositivos auxiliares que adicionam funções extras ao dispositivo principal, como teclado, mouse, impressora, webcam, fone de ouvido, etc.
+                        <br>
+                        <br>
+                        Placa-mãe: responsável por conectar todos os componentes entre si. Também é onde ficam instalados a CPU, o HD, a memória RAM, placa de vídeo, entre outros.</p>        
+            <h2 id="ldp">LOGICA DE PROGRAMAÇÃO</h2>
+                <small><a href="#inicio">(voltar)</a></small>
+                    <p>Frequentemente encontramos pessoas interessadas em TI e programação que não sabem exatamente por onde começar a estudar. Pensando nisso preparamos um post especial para ajudar nesse primeiro passo para os estudos de programação. Venha conferir a importância da lógica de programação e dos algoritmos.
+                        <br>
+                        <br>
+                        O que é lógica de programação?
+                        Lógica de programação é a técnica utilizada para desenvolver instruções em uma sequência para atingir determinado objetivo. É a organização e planejamento de instruções, em um algoritmo, com o objetivo de tornar viável a implementação de um programa ou software.
+                        <br>
+                        <br>
+                        A lógica de programação nada mais é do que a organização coerente das instruções do programa para que seu objetivo seja alcançado.
+                        <br>
+                        <br>
+                        Esse é o grande desafio do programador: montar a estrutura do programa para ser executado pelo computador. É preciso partir do princípio que o computador não pensa da mesma forma que nós e não é inteligente para saber o que precisa ser feito, nem compreender as mensagens subjetivas. Dessa forma, organizar as informações de forma clara e na ordem adequada é primordial para que a ação seja executada corretamente.</p>   
+
+     </body>
+</html>
